@@ -1,5 +1,6 @@
 require 'pry'
-require 'nokogiri'
+require 'json'
+require 'httparty'
 require 'open-uri'
 
 require_relative('../lib/alien')
